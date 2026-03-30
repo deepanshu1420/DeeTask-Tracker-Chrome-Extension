@@ -79,4 +79,4 @@ This project is open-source and available under the MIT License.
 
 <br>
 
-Developed with ❤️ by **[Deepanshu Sharma](https://github.com/deepanshu1420)**
+Developed with ❤️ by <a href="https://github.com/deepanshu1420">Deepanshu Sharma</a>
