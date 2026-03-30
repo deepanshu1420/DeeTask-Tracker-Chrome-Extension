@@ -5,8 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-green?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-**DeeTask Tracker** is a modern Chrome extension designed to help you manage tasks efficiently right from your browser.  
-It combines a clean glassmorphic interface with powerful features like deadline tracking and automatic sync across devices.
+- **DeeTask Tracker** is a modern Chrome extension designed to help you manage tasks efficiently right from your browser.  
+- It combines a clean glassmorphic interface with powerful features like deadline tracking and automatic sync across devices.
 
 ---
 
