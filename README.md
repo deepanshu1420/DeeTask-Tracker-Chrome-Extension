@@ -1,7 +1,7 @@
 # 📝 DeeTask Tracker
 
 ![HTML5](https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-2D2D2D?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Chrome APIs](https://img.shields.io/badge/Chrome%20APIs-2D2D2D?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
