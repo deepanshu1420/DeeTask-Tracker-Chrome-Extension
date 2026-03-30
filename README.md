@@ -65,11 +65,11 @@ DeeTask-Tracker/
 
 ### 3. Load Extension in Chrome
 - Open `chrome://extensions/`
-- Enable Developer mode (top right)
+- Enable Developer mode (top right corner)
 - Click Load unpacked
-- Select your project folder
+- Select your project folder (that u just cloned!)
 - Click the Refresh 🔄 button on your extension (if already loaded)
-- Pin the extension from the toolbar
+- Pin 🧩 the extension from the toolbar
 
 ## 📜 License
 
