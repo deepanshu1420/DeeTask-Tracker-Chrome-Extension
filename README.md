@@ -1,10 +1,10 @@
 # 📝 DeeTask Tracker
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6F00?style=for-the-badge&logo=figma&logoColor=white)
-![Chrome APIs](https://img.shields.io/badge/Chrome%20APIs-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4C29?style=for-the-badge&logo=figma&logoColor=white)
+![Chrome APIs](https://img.shields.io/badge/Chrome%20APIs-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 - **DeeTask Tracker** is a modern Chrome extension that helps you manage tasks directly from your browser in a fast and distraction-free way.  
 - It provides a sleek interface to add tasks with deadlines and keep everything organized effortlessly.
