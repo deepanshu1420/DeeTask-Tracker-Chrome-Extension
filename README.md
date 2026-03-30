@@ -1,10 +1,10 @@
 # 📝 DeeTask Tracker
 
-![HTML](https://img.shields.io/badge/HTML5-5C1A0E?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-0F1E52?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4A3D00?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-4A1A09?style=for-the-badge&logo=figma&logoColor=white)
-![Chrome APIs](https://img.shields.io/badge/Chrome%20APIs-0F1F6E?style=for-the-badge&logo=google-chrome&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-2D2D2D?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Chrome APIs](https://img.shields.io/badge/Chrome%20APIs-2D2D2D?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
 
 - **DeeTask Tracker** is a modern Chrome extension that helps you manage tasks directly from your browser in a fast and distraction-free way.  
 - It provides a sleek interface to add tasks with deadlines and keep everything organized effortlessly.
