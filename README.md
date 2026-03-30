@@ -77,6 +77,4 @@ DeeTask-Tracker/
 
 This project is open-source and available under the MIT License.
 
-## ❤️ Author
-
-Developed with care by [Deepanshu Sharma](https://github.com/deepanshu1420)
+Developed with ❤️ by [Deepanshu Sharma](https://github.com/deepanshu1420)
