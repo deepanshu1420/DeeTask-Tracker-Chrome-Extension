@@ -3,20 +3,22 @@
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-green?style=for-the-badge&logo=google-chrome&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange?style=for-the-badge)
+![Chrome APIs](https://img.shields.io/badge/Chrome-APIs-green?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-- **DeeTask Tracker** is a modern Chrome extension designed to help you manage tasks efficiently right from your browser.  
-- It combines a clean glassmorphic interface with powerful features like deadline tracking and seamless synchronization across devices.
-- Tasks are automatically synced using the Chrome Storage Sync API and are linked to your Google account.  
-- This means your tasks stay updated across all devices where you are signed into Chrome, without any manual setup.
+- **DeeTask Tracker** is a modern Chrome extension that helps you manage tasks directly from your browser in a fast and distraction-free way.  
+- It provides a sleek interface to add tasks with deadlines and keep everything organized effortlessly.
 
 ## ✨ Key Features
 
 - 🎨 **Modern Glassmorphic UI**  
-  Clean frosted-glass design with smooth blur effects and subtle neon accents for a premium feel.
+  Frosted-glass design with smooth blur effects and subtle neon accents for a premium feel.
 
-- ☁️ **Automatic Cloud Sync**  
-  Uses Chrome Storage Sync to keep your tasks available across all devices logged into your Chrome account.
+- ☁️ **Cloud Sync Integration**  
+  Tasks are synced using the Chrome Storage Sync API and linked to your Chrome (Google) account.
+
+- 🔄 **Cross-Device Access**  
+  Access and manage your tasks seamlessly across all devices where you're signed into Chrome.
 
 - ⏰ **Deadline Management**  
   Separate date and time inputs allow you to set precise deadlines without clutter.
