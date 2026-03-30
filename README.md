@@ -6,9 +6,9 @@
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-green?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 - **DeeTask Tracker** is a modern Chrome extension designed to help you manage tasks efficiently right from your browser.  
-- It combines a clean glassmorphic interface with powerful features like deadline tracking and automatic sync across devices.
-
----
+- It combines a clean glassmorphic interface with powerful features like deadline tracking and seamless synchronization across devices.
+- Tasks are automatically synced using the Chrome Storage Sync API and are linked to your Google account.  
+- This means your tasks stay updated across all devices where you are signed into Chrome, without any manual setup.
 
 ## ✨ Key Features
 
@@ -27,16 +27,12 @@
 - 💾 **Persistent Storage**  
   Tasks remain saved even after closing or restarting the browser.
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3 (Flexbox, Glassmorphism, Backdrop Filters)  
 - **Logic:** JavaScript (ES6+)  
 - **Storage:** Chrome Storage Sync API  
 - **Design:** Google Fonts (Poppins), Custom Icons  
-
----
 
 ## 📸 Screenshots
 
@@ -45,8 +41,6 @@ _A clean glassmorphic interface showing task input and list._
 
 ![Task Added](./screenshots/screen2.png)  
 _View of tasks with deadlines displayed clearly._
-
----
 
 ## 🚀 Setup & Installation
 
@@ -72,14 +66,10 @@ DeeTask-Tracker/
 - Click the Refresh 🔄 button on your extension (if already loaded)
 - Pin the extension from the toolbar
 
----
-
 ## 📜 License
 
 This project is open-source and available under the MIT License.
 
----
-
 ## ❤️ Author
 
-Developed with care by Deepanshu Sharma
+Developed with care by [Deepanshu Sharma](https://github.com/deepanshu1420)
