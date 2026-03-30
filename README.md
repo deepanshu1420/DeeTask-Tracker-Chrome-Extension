@@ -59,6 +59,9 @@ DeeTask-Tracker/
 │   ├── icon16.png
 │   ├── icon48.png
 │   └── icon128.png
+├── screenshots/
+|   ├── screen1.png
+│   └── screen2.png
 ├── manifest.json
 ├── popup.html
 ├── popup.css
