@@ -39,10 +39,10 @@
 ## 📸 Screenshots
 
 ![Main UI](./screenshots/screen1.png)  
-_A clean glassmorphic interface showing task input and list._
+*A clean glassmorphic interface showing task input and list.*
 
 ![Task Added](./screenshots/screen2.png)  
-_View of tasks with deadlines displayed clearly._
+*View of tasks with deadlines displayed clearly.*
 
 ## 🚀 Setup & Installation
 
