@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeeTask Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="task-container">
+        <h2>DeeTask Tracker📝</h2>
+        
+        <input type="text" id="task" placeholder="Enter your task" autocomplete="off" />
+        
+        <div class="datetime-wrapper">
+            <input type="date" id="dueDate" title="Select Date" />
+            <input type="time" id="dueTime" title="Select Time" />
+            <button id="clearDateTime" title="Clear Date & Time">✖</button>
+        </div>
+        
+        <button id="addTask">Add Task</button>
+        <div id="tasks"></div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
