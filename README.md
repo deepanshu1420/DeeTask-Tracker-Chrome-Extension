@@ -45,9 +45,13 @@ _View of tasks with deadlines displayed clearly._
 ## 🚀 Setup & Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/DeeTask-Tracker.git
+```bash
+git clone https://github.com/deepanshu1420/DeeTask-Tracker-Chrome-Extension.git
+cd DeeTask-Tracker-Chrome-Extension 
+```
 
 ### 2. Project Structure
+```
 DeeTask-Tracker/
 ├── images/
 │   ├── icon16.png
@@ -57,9 +61,10 @@ DeeTask-Tracker/
 ├── popup.html
 ├── popup.css
 └── popup.js
+```
 
 ### 3. Load Extension in Chrome
-- Open chrome://extensions/
+- Open `chrome://extensions/`
 - Enable Developer mode (top right)
 - Click Load unpacked
 - Select your project folder
